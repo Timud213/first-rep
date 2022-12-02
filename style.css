@@ -1,0 +1,15 @@
+a{
+    display: inline-block;
+    color: white;
+    background-color: rgba(0,0,0,1);
+    text-decoration: none;
+    padding: 12px 32px;
+    border-radius: 6px;
+}
+main{
+    display: inline-block;
+    color: white;
+    background-color: rgba(50,50,50,1);
+    text decoration: none;
+    
+}
